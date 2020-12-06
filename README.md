@@ -37,8 +37,12 @@ My main programming language is Ruby with Rails framework. But I also work with 
 
 ### Where to find me?
 
-[<img width="30px" height="30px" align="left" font-color="0072b1" alt="marco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img width="30px" height="30px" align="left" alt="marco | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[![Linkedin](https://img.shields.io/badge/-brenocnogueira-blue?style=plastic&logo=Linkedin&logoColor=white)](linkedin)
+[![Gmail](https://img.shields.io/badge/-brenocnog-red?style=plastic&logo=Gmail&logoColor=white)][gmail]
+[![GitHub](https://img.shields.io/github/followers/bc-nogueira?label=follow&style=social)](github)
 
 [linkedin]: https://www.linkedin.com/in/brenocnogueira/
 [gmail]: mailto:brenocnog@gmail.com
+[github]: https://github.com/bc-nogueira
+
+
