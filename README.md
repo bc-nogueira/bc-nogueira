@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" style="border-radius:50%;" src="https://avatars3.githubusercontent.com/u/27022596?s=400&u=fe5d0fda0bf2c5bb171cf686cb791f524fbb3edc&v=4" align="center" alt="GitHub Readme Stats" />
+ <img width="150px" src="assets/rounded-profile.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Breno's Nogueira Profile</h2>
  <p align="center">
    Hey there and welcome to my profile! <br/>
