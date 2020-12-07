@@ -4,6 +4,7 @@
  <p align="center">
    Hey there and welcome to my profile! <br/>
    It's awesome to have you here!
+  </p>
 </p>
 
 <p align="center">
