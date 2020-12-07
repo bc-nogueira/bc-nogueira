@@ -31,13 +31,13 @@ My main programming language is Ruby with Rails framework. But I also work with 
 
 ### Statistics
 
-[![Breno's github stats](https://github-readme-stats.vercel.app/api?username=bc-nogueira&count_private=true&show_icons=true&theme=buefy)](https://github.com/bc-nogueira/github-readme-stats)
+[![Breno's github stats](https://github-readme-stats.vercel.app/api?username=bc-nogueira&count_private=true&show_icons=true&theme=buefy&hide=contribs)](https://github.com/bc-nogueira/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bc-nogueira&theme=buefy)](https://github.com/bc-nogueira/github-readme-stats)
 
 ### Where to find me?
 
-[![Personal Website](https://img.shields.io/badge/-www.bcnogueira.com.br-brightgreen?style=plastic)](http://bcnogueira.com.br/)
+[![Personal Website](https://img.shields.io/static/v1?label=&labelColor=505050&message=Website&color=brightgreen&style=plastic&logo=google-chrome&logoColor=brightgreen)](http://bcnogueira.com.br/)
 [![Linkedin](https://img.shields.io/badge/-brenocnogueira-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brenocnogueira/)
 [![Gmail](https://img.shields.io/badge/-brenocnog-red?style=plastic&logo=Gmail&logoColor=white)](mailto:brenocnog@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/bc-nogueira?label=follow&style=social)](https://github.com/bc-nogueira)
