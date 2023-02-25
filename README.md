@@ -15,7 +15,7 @@
 
 ### About me
 
-I currently work at <a href="https://www.jobsity.com/">Jobsity <img width="20px" src="https://f.hubspotusercontent40.net/hub/5621549/hubfs/logo_chat%20(1).png?width=108&height=108" /></a>.
+I currently work at <a href="https://www.kickserv.com/">Kickserv <img width="20px" src="https://f.hubspotusercontent40.net/hub/5621549/hubfs/logo_chat%20(1).png?width=108&height=108" /></a>.
 My main programming language is Ruby with Rails framework. But I also work with HTML, CSS and a little bit with React and React Native.
 
 ### Languages
@@ -25,9 +25,11 @@ My main programming language is Ruby with Rails framework. But I also work with 
 ![Rails](https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-- Currently learning:
+- Other technologies I know
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+- Currently learning:
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white)
 
 ### Statistics
