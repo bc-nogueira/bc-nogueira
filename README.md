@@ -15,7 +15,7 @@
 
 ### About me
 
-I currently work at <a href="https://www.kickserv.com/">Kickserv <img width="20px" src="https://f.hubspotusercontent40.net/hub/5621549/hubfs/logo_chat%20(1).png?width=108&height=108" /></a>.
+I currently work at <a href="https://www.kickserv.com/">Kickserv <img width="20px" src="assets/kickserv-logo.jpg" /></a>.
 My main programming language is Ruby with Rails framework. But I also work with HTML, CSS and a little bit with React and React Native.
 
 ### Languages
