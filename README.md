@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://badges.pufler.dev/visits/bc-nogueira/bc-nogueira" />
-  <img src="https://badges.pufler.dev/years/bc-nogueira" />
-  <img src="https://badges.pufler.dev/repos/bc-nogueira" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bc-nogueira" />
 </p>
 
 ### About me
