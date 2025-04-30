@@ -21,18 +21,15 @@ My main programming language is Ruby with Rails framework. But I also work with 
 - Currently working with: 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-- Other technologies I know
+- Other technologies I know (and use sometimes)
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-- Currently learning:
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white)
 
 ### Statistics
 
-[![Breno's github stats](https://github-readme-stats.vercel.app/api?username=bc-nogueira&count_private=true&show_icons=true&theme=buefy&hide=contribs)](https://github.com/bc-nogueira/github-readme-stats)
+<!-- [![Breno's github stats](https://github-readme-stats.vercel.app/api?username=bc-nogueira&count_private=true&show_icons=true&theme=buefy&hide=contribs)](https://github.com/bc-nogueira/github-readme-stats) -->
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bc-nogueira&theme=buefy)](https://github.com/bc-nogueira/github-readme-stats)
 
